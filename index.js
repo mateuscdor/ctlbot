@@ -4,7 +4,7 @@ const { default: makeWASocket, BufferJSON, initInMemoryKeyStore, DisconnectReaso
 const { banner, getBuffer, getRandom } = require('./banco_de-dados/lib/functions')
 
 // IRA PRECISAR //
-const { menutxt } = require('./banco_de-dados/help')
+//const { menutxt } = require('./banco_de-dados/help')
 const { fetchJson } = require('./banco_de-dados/lib/fetcher')
 const { msgFilter } = require('./banco_de-dados/lib/antispam')
 const thiccysapi = require('textmaker-thiccy');
